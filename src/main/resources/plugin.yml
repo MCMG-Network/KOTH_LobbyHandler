@@ -1,0 +1,4 @@
+name: KOTH_LobbyHandler
+version: '${project.version}'
+main: mcmgnetwork.koth_lobbyhandler.KOTH_LobbyHandler
+api-version: '1.20'
